@@ -1,5 +1,4 @@
 <?php
-
 function generatePwd($passwordLength){
     $string = '';
     for ($i = 0; $i < $passwordLength; $i++){
